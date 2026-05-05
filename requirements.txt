@@ -1,0 +1,11 @@
+flask
+flask-cors
+numpy==1.26.4
+ml-dtypes==0.3.2
+protobuf==4.25.3
+tensorflow==2.15.1
+mediapipe==0.10.14
+opencv-python-headless
+Pillow
+scikit-learn
+matplotlib
